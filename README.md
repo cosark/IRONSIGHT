@@ -181,6 +181,10 @@ docker run --rm -p 3000:3000 ironsight
 
 To use a different host port, map it (e.g. `-p 8080:3000`) or edit the `ports` mapping in `docker-compose.yml`.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/IRONSIGHT/)
+
 ## Tech Stack
 
 - **Framework:** Next.js 16 (App Router)
